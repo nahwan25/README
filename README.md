@@ -11,7 +11,7 @@
    seaborn==0.13.2
    plotly 5.24.1
    streamlit 1.39.0
-   pip instal numpy pandas scipy matplotlib seaborn streamlit dan plotly
+   pip instal numpy pandas scipy matplotlib seaborn streamlit plotly
 8. Run lagi file dashboard.py tersebut
 9. masukan script "streamlit run main.py" di terminal
 10. Masukan gmail jika diminta
